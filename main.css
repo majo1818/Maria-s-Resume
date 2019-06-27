@@ -1,0 +1,54 @@
+body{
+   background-color: burlywood;
+   text-align: center
+
+}
+#address {
+    text-align: center
+
+}
+
+p {
+    text-align: left;
+    font-size: 20px;
+    
+}
+
+h3 {
+    text-align: left
+    
+   
+}
+
+h1{
+    font-size: 50px;
+
+}
+
+li {
+    text-align: left
+
+}
+.lola{
+    background-color: rgb(243, 166, 73);
+    font-size: 20px;
+    width: 80%;
+    float: right;
+    margin-right: 50px;
+    margin-left: 50px;
+    
+   
+}
+img {
+
+float: left;
+border: 5px solid;
+border-color: rgb(241, 65, 6);
+clear: both;
+
+}
+
+.space {
+
+
+}
